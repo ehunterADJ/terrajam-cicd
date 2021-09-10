@@ -77,31 +77,31 @@
     ],
     "skills":[
       {
-        "name":"Python",
-        "level":"60%"
+        "name":"Snoring",
+        "level":"70%"
       },
       {
-        "name":"VueJs",
+        "name":"Druling",
         "level":"55%"
       },
       {
-        "name":"ReactJs",
+        "name":"Cuteness",
         "level":"50%"
       },
       {
-        "name":"CSS",
+        "name":"Fugly",
         "level":"90%"
       },
       {
-        "name":"PHP",
+        "name":"Fatty",
         "level":"80%"
       },
       {
-        "name":"Swift",
-        "level":"50%"
+        "name":"Agile",
+        "level":"20%"
       },
       {
-        "name":"JAVA",
+        "name":"Loose",
         "level":"80%"
       }
     ]
